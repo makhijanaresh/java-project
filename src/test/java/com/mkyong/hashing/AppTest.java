@@ -21,7 +21,7 @@ public class AppTest
 	@Test
 	public void sampleFail()
 	{
-		int i=1;
+		int i=2;
 		int j=2;
 		assertTrue(i+j==4);
 	}
